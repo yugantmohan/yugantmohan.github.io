@@ -1,0 +1,71 @@
+.works{
+    background-color: black;
+    width: 1000px;
+    height: 800px;
+    justify-content: center;
+    text-align: center;
+    color: #D0F8FF;
+}
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+       
+        
+        .myCarousel{
+            
+            
+        }   
+        
+        .carousel-inner{
+            margin: 20px 20px ;
+            
+            
+
+            .vitem{
+                width: 500px;
+                height: 250px;
+                .carousel-caption{
+                    z-index: -2;
+
+                }
+
+            }
+            .vitem:hover{
+
+            }
+            
+
+            .item{
+                width: 500px;
+                height: 250px;
+                text-indent: -9999px;
+            
+                img{
+                    justify-content: center;
+                    text-align: center;
+                    width: 500px;
+                    height: 250px;
+                }
+           
+                
+                img:hover{
+                    opacity: 20%;
+                    transition: .5s ease-in-out;
+                }
+                .carousel-caption{
+                    z-index: -2;
+                }
+                
+            }
+             .item:hover{
+                
+                transition: .25s ease-in-out; 
+                text-indent: 0px;
+                                
+                }
+                
+        }
