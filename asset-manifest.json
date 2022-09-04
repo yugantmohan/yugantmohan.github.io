@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8990660a.css",
-    "main.js": "/static/js/main.5e38353a.js",
-    "static/media/me.png": "/static/media/me.76bbd0dbd27a006ccbc2.png",
-    "static/media/coffee.jpg": "/static/media/coffee.1eb13a9017f8b1b12726.jpg",
-    "static/media/deer.jpg": "/static/media/deer.b6f93cedf6ea401ae3ce.jpg",
-    "static/media/petcare_04.jpg": "/static/media/petcare_04.58f7178c92f3509bd156.jpg",
-    "static/media/petcare_01.jpg": "/static/media/petcare_01.0de5bf9951945a26a38a.jpg",
-    "static/media/resume.pdf": "/static/media/resume.63e99328d89bad3650e0.pdf",
-    "static/media/contact.jpg": "/static/media/contact.82214f463f17559efd91.jpg",
-    "static/media/petcare_03.jpg": "/static/media/petcare_03.4db8a7845326772b9836.jpg",
-    "static/media/petcare_02.jpg": "/static/media/petcare_02.39eba736bb50799bc44d.jpg",
-    "static/media/black.avif": "/static/media/black.eaab670afd0167ce6e72.avif",
-    "index.html": "/index.html",
-    "main.8990660a.css.map": "/static/css/main.8990660a.css.map",
-    "main.5e38353a.js.map": "/static/js/main.5e38353a.js.map"
+    "main.css": "/yugantmohan.github.io/static/css/main.8990660a.css",
+    "main.js": "/yugantmohan.github.io/static/js/main.b06b8e73.js",
+    "static/media/me.png": "/yugantmohan.github.io/static/media/me.76bbd0dbd27a006ccbc2.png",
+    "static/media/coffee.jpg": "/yugantmohan.github.io/static/media/coffee.1eb13a9017f8b1b12726.jpg",
+    "static/media/deer.jpg": "/yugantmohan.github.io/static/media/deer.b6f93cedf6ea401ae3ce.jpg",
+    "static/media/petcare_04.jpg": "/yugantmohan.github.io/static/media/petcare_04.58f7178c92f3509bd156.jpg",
+    "static/media/petcare_01.jpg": "/yugantmohan.github.io/static/media/petcare_01.0de5bf9951945a26a38a.jpg",
+    "static/media/resume.pdf": "/yugantmohan.github.io/static/media/resume.63e99328d89bad3650e0.pdf",
+    "static/media/contact.jpg": "/yugantmohan.github.io/static/media/contact.82214f463f17559efd91.jpg",
+    "static/media/petcare_03.jpg": "/yugantmohan.github.io/static/media/petcare_03.4db8a7845326772b9836.jpg",
+    "static/media/petcare_02.jpg": "/yugantmohan.github.io/static/media/petcare_02.39eba736bb50799bc44d.jpg",
+    "static/media/black.avif": "/yugantmohan.github.io/static/media/black.eaab670afd0167ce6e72.avif",
+    "index.html": "/yugantmohan.github.io/index.html",
+    "main.8990660a.css.map": "/yugantmohan.github.io/static/css/main.8990660a.css.map",
+    "main.b06b8e73.js.map": "/yugantmohan.github.io/static/js/main.b06b8e73.js.map"
   },
   "entrypoints": [
     "static/css/main.8990660a.css",
-    "static/js/main.5e38353a.js"
+    "static/js/main.b06b8e73.js"
   ]
 }
